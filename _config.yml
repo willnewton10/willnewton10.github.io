@@ -1,15 +1,12 @@
-# Site settings
 
-
-name: Will Newton
-description: my blog!
+title: Will's Blog
 email: willnewton10@gmail.com
-title: Blog de la Will
-
-#baseurl: "" # the subpath of your site, e.g. /blog/
+description: > # this means to ignore newlines until "baseurl:"
+  writing about programming
+baseurl: "" # the subpath of your site, e.g. /blog/
 #url: "http://yourdomain.com" # the base hostname & protocol for your site
-#twitter_username: jekyllrb
-#github_username:  jekyll
+twitter_username: willnewton10
+github_username:  willnewton10
 
 # Build settings
-#markdown: kramdown
+markdown: kramdown
