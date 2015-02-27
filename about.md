@@ -12,5 +12,5 @@ Or ["connect" with him][linkedin], on linked in.
 
 Or check out some of his code on [his github page][github].
 
-[linkedin]: https://www.linkedin.com/profile/view?id=169006365
+[linkedin]: ca.linkedin.com/in/willnewton10
 [github]: https://github.com/willnewton10
