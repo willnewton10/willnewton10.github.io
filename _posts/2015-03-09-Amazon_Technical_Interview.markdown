@@ -10,7 +10,7 @@ This morning, I had a technical interview with an Amazon software developer. It 
 
 Let's go over some of the blunders I made:
 
-* First of all, I don't express myself well when I am flooded with adrenaline, so a lot of stuff I said probably sounded incredibly _awkward_. Then, afterwards, for each memory, I deal with one of two cases. The first case is that I remember what I said and then my thoughts are along the lines of "man, I really should have said <something-else>!" In the second case, where I don't remember what I said, I can let my paranoid imagination take over and make up something really embarrassing, in which case I think "OMG, I didn't say _that_, did I?" This really happens.
+* First of all, I don't express myself well when I am flooded with adrenaline, so a lot of stuff I said probably sounded incredibly _awkward_. Then, afterwards, for each memory, I deal with one of two cases. The first case is that I remember what I said and then my thoughts are along the lines of "man, I really should have said ---something-else---!" In the second case, where I don't remember what I said, I can let my paranoid imagination take over and make up something really embarrassing, in which case I think "OMG, I didn't say _that_, did I?" This really happens.
 
 * I couldn't tell him the difference between an abstract class and an interface. (You can put functionality into an abstract class.) Last time I used an abstract class was back in second year at George Brown, so I forgive myself for not knowing this. Plus, I think in interfaces, not with abstract classes. But... you can give all of the excuses you want. Can't change the past!
 
