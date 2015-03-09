@@ -1,11 +1,16 @@
 ---
 layout: page
-title: About
+title: Who is Will?
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Will Newton is a software developer in Toronto, Ontario, Canada.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+Email him at `willnewton10@gmail.com`.
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+Or ["connect" with him][linkedin], on linked in.
+
+Or check out some of his code on [his github page][github].
+
+[linkedin]: ca.linkedin.com/in/willnewton10
+[github]: https://github.com/willnewton10
