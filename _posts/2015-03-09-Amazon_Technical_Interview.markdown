@@ -6,7 +6,7 @@ date:   2015-03-09 14:59:44
 ---
 
 
-This morning, I had a technical interview with a real-life Amazon software developer. It was about an hour and ten minutes. I don't think I failed _too_ miserably but I did not do as well as I wanted. The man who was conducting the interview was really friendly and supportive which I really appreciated. I get terribly stressed in interviews (and I lose lots of energy _before_ the interview, thinking about what might happen). I start talking too fast and then I ramble on and on. So it helps when the person on the other end is kind.
+This morning, I had a technical interview with an Amazon software developer. It was about an hour and ten minutes. I don't think I failed _too_ miserably but I did not do as well as I wanted. The man who was conducting the interview was really friendly and supportive which I really appreciated. I get terribly stressed in interviews (and I lose lots of energy _before_ the interview, thinking about what might happen). I start talking too fast and then I ramble on and on. So it helps when the person on the other end is kind.
 
 Let's go over some of the blunders I made:
 
