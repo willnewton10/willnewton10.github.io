@@ -24,7 +24,7 @@ Let's go over some of the blunders I made:
 
 * I kind of don't want to fully remember this last blunder. I was trying to call my girlfriend after the interview was over, but I think I redialed the interviewer's number. I believe I hung up after 1 ring. _Embarassing!_ I'm not completely sure that this happened, and I kind of don't want to look at the phone's history to find out. 
 
-Why did I (maybe) accidentally call him back? It's because I was using a different phone. This was a phone interview, where I would also have to code. So I required a way to have my hands free. My phone, being an old, clunky flip-phone, does not have a headphone jack and I was not confident enough with the speakerphone to use it. So I needed to borrow someone's phone or buy a new one. I'm going to skip details about why I did not want to buy a new phone. 
+Why did I (maybe) accidentally call him back? Apart from the fact that I was suffocating in adrenaline, it's because I was using a different phone. This was a phone interview, where I would also have to code. So I required a way to have my hands free. My phone, being an old, clunky flip-phone, does not have a headphone jack and I was not confident enough with the speakerphone to use it. So I needed to borrow someone's phone or buy a new one. I'm going to skip details about why I did not want to buy a new phone. 
 
 The solution I came up with, along with my awesome girlfriend, was to just trade phones with her, but also _switch SD cards_. So, with her smartphone, I could easily use headphones and she could still have a productive day at work. I thought it was really sneaky for us to switch cards like that. The only downsides are: my flip phone is slower to text with (which may slow her down at work) and I kept hearing a noise every time she receives an email. (We are both under the same phone company, so, as far as I know, that is what allows us to switch cards.)
 
@@ -41,3 +41,9 @@ If I could do it all over again, here is what I would do differently:
 * I think if I had reviewed more, I would not have been so adrenalized.
 
 Good luck to anyone else who applies to Amazon.
+
+----------------
+
+UPDATE:
+
+Oh man, I realized another blunder. This is a purely adrenaline-based blunder because it is so silly. For some integer `i`, and some JavaScript object `o`, normally you just say `o[i]` and you might check if `o[i] === undefined`. Instead, I was drawing a blank and I went like this: `o.hasOwnProperty(i)`. I remember having the feeling that something was off, but my mind was racing too much to realize why.
