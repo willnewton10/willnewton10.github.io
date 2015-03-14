@@ -46,4 +46,4 @@ Good luck to anyone else who applies to Amazon.
 
 UPDATE:
 
-Oh man, I realized another blunder. This is a purely adrenaline-based blunder because it is so silly. For some integer `i`, and some JavaScript object `o`, normally you just say `o[i]` and you might check if `o[i] === undefined`. Instead, I was drawing a blank and I went like this: `o.hasOwnProperty(i)`. I remember having the feeling that something was off, but my mind was racing too much to realize why.
+Oh man, I realized another blunder. This is a purely adrenaline-based blunder because it is so silly. For some integer `i`, and some JavaScript object `o`, normally you just say `o[i]` and you might check if `o[i] === undefined`. Instead, I was drawing a blank and I went like this: `o.hasOwnProperty(i)`. I remember having the feeling that something looked weird, but my mind was racing too much to realize why. I suppose this is an acceptable blunder
