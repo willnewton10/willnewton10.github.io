@@ -29,7 +29,7 @@ I has a linux laptop. Each scenario had a spec as well as some scripts to help b
 
 It did not have emacs, which is what I use these days. So I used Gedit. That slowed me down a bit.
 
-At the start, I was typing stuff and running the build scripts but my changes weren't showing up. I had a moment of panic. _What the hell is going on???_ But it was because the keys on the keyboard were backwards from what I was used to: `Ctrl` and `Fn`. So, for example, I `Ctrl+S` was not saving.
+At the start, I was typing stuff and running the build scripts but my changes weren't showing up. I had a moment of panic. _What the hell is going on???_ But it was because the keys on the keyboard were backwards from what I was used to: `Ctrl` and `Fn`. So, for example, `Ctrl+S` was not saving, because I was actually pressing `Fn+S`.
 
 As usual, I was _flooded with adrenaline_, because that's what happens to me in situations where the purpose is to evaluate me. I had the whole racing-mind thing happen again, where I can't really think all that clearly. I ended up deciding to "just make something that works" before the end of the hour. Make it work first, then make it nice. Unfortunately, I ran out of time, so I failed to make it nice.
 
@@ -46,5 +46,7 @@ Anyway, I was itching to improve my crappy adrenaline-fueled solution, so I re-d
 By running out of time, I also missed my chance to tackle the bonus-problem. The enciphering process ignored space characters. So the bonus challenge was: given some text that was enciphered and then deciphered, make a program that tries to guess where the spaces were. A text file with words is provided. It also gave the hint to go for larger words first. 
 
 I have thought of solutions for this, but I have not yet thought of a _good_ solution, due to its combinatorial nature.
+
+I actually Googled around a bit beforehand to see if I could find out what they were going to give me as a programming challenge. One thing I found said that they would give you 1 hour challenges with scenarios you could choose from and one example of a scenario was to make something like a game. So I wrote 2 tic-tac-toe command line games on Sunday. I wrote a _minimax_ function for the second one so that you could have A.I. players. A minimax function generates a tree of all possible game states to choose a move. It chooses the move for a player by choosing whatever maximizes the players's score, while also having the simulated enemy try to minimize the player's score. That went alright at home, without a time-limit or stress. But I am 99% sure that I would not have had time to write that in 1 hour under stress.
 
 [github]:     https://github.com/willnewton10/interview-1
